@@ -1,1 +1,3 @@
 this second txt file
+append text conten to file1.txt
+contiune append text content to file1.txt
