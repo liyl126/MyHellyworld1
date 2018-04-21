@@ -1,0 +1,1 @@
+测试一下git中两条命令一次执行完成比如 git add 和 git commit
