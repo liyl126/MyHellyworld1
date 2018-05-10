@@ -1,0 +1,22 @@
+this is txt file
+this second txt file
+append text conten to file1.txt
+contiune append text content to file1.txt
+file.txt
+file1.txt
+file2.txt
+GitConfigList.log
+README.md
+total 8
+-rw-r--r-- 1 161115 197121  17 4月  19 16:05 file.txt
+-rw-r--r-- 1 161115 197121  98 4月  19 17:22 file1.txt
+-rw-r--r-- 1 161115 197121  62 4月  19 17:22 file2.txt
+-rw-r--r-- 1 161115 197121 128 4月  19 14:45 GitConfigList.log
+-rw-r--r-- 1 161115 197121 306 4月  18 09:29 README.md
+total 8
+-rw-r--r-- 1 161115 197121  17 4月  19 16:05 file.txt
+-rw-r--r-- 1 161115 197121  98 4月  19 17:22 file1.txt
+-rw-r--r-- 1 161115 197121 357 4月  19 17:28 file2.txt
+-rw-r--r-- 1 161115 197121 128 4月  19 14:45 GitConfigList.log
+-rw-r--r-- 1 161115 197121 306 4月  18 09:29 README.md
+测试一下git中两条命令一次执行完成比如 git add 和 git commit
